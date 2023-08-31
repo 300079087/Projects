@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AddMasterPro.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label HorizontalOptions="Center" FontSize="Large" FontAttributes="Bold" Text="First Number"/>
+            <Entry x:Name="txtNum1" BackgroundColor="LightGrey"/>
+            <Label HorizontalOptions="Center" FontSize="Large" FontAttributes="Bold" Text="Second Number"/>
+            <Entry x:Name="txtNum2" BackgroundColor="LightGrey"/>
+            <Label x:Name="lblAnswer" Padding="0,75,0,75" FontSize="Title" HorizontalOptions="Center" Text="0"/>
+            <Button Text="Add" Clicked="AddClick" />
+            <Button Text="Clear" Clicked="ClearClick" />
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+
