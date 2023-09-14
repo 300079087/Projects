@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E8984658-0031-465A-A984-B94B7071119B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimerPro/MainPage.xaml">
+    <Files>
+      <File FileName="TimerPro/MainPage.xaml.cs" Line="16" Column="9" />
+      <File FileName="TimerPro/MainPage.xaml" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimerPro" expanded="True">
+            <Node name="TimerPro">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TimerPro PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+</Properties>
