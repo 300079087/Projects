@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="DistanceConverter.Views.AboutPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" >
+            <Label Text="Author: Austin Steffes" FontSize="Title"></Label>
+            <Label Text="App Name: Distance Converter" FontSize="Title"></Label>
+            <Label Text="Version 2023"></Label>
+            <Label Text="Todays Date: 10/23/23"></Label>
+            <Label Text="Class: Joe Wetzel Intro into Mobile"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

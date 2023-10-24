@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FB2E4A97-4685-4413-8EFD-B25C730F4F9A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DistanceConverter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DistanceConverter.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DistanceConverter/DistanceConverter/App.xaml">
+    <Files>
+      <File FileName="DistanceConverter/DistanceConverter/Views/DistancePage.xaml" Line="60" Column="20" />
+      <File FileName="DistanceConverter/DistanceConverter/Views/DistancePage.xaml.cs" Line="11" Column="11" />
+      <File FileName="DistanceConverter/DistanceConverter/Views/AboutPage.xaml" Line="12" Column="61" />
+      <File FileName="DistanceConverter/DistanceConverter/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DistanceConverter/DistanceConverter/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DistanceConverter" expanded="True">
+            <Node name="DistanceConverter">
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MultiItemStartupConfigurations />
+</Properties>

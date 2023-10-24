@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="DistanceConverter.Views.DistancePage">
+    <ContentPage.Content>
+        <ScrollView>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="Auto"/>
+
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="1" Grid.Column="0" Text="Meters"/>
+            <Entry x:Name="txtMeters" Keyboard="Numeric" Grid.Row="1" Grid.Column="1"
+                   TextChanged="txtMeters_TextChanged"/>
+
+            <Label Grid.Row="3" Text="Inches" Grid.Column="0"/>
+            <Entry x:Name="txtInches" Keyboard="Numeric" Grid.Row="3" Grid.Column="1"
+                   TextChanged="txtInches_TextChanged"/>
+
+            <Label Grid.Row="5" Text="Feet" Grid.Column="0"/>
+            <Entry x:Name="txtFeet" Keyboard="Numeric" Grid.Row="5" Grid.Column="1"
+                   TextChanged="txtFeet_TextChanged"/>
+
+            <Label Grid.Row="7" Text="Yards" Grid.Column="0"/>
+            <Entry x:Name="txtYards"  Keyboard="Numeric" Grid.Row="7" Grid.Column="1"
+                   TextChanged="txtYards_TextChanged"/>
+
+            <Label Grid.Row="9" Text="Miles" Grid.Column="0"/>
+            <Entry x:Name="txtMiles" Keyboard="Numeric" Grid.Row="9" Grid.Column="1"
+                   TextChanged="txtMiles_TextChanged"/>
+
+            <Label Grid.Row="11" Text="Nautical" Grid.Column="0"/>
+            <Entry x:Name="txtNautical" Keyboard="Numeric" Grid.Row="11" Grid.Column="1"
+                   TextChanged="txtNautical_TextChanged"/>
+                
+            <Label Grid.Row="13" Text="Kilometers" Grid.Column="0"/>
+            <Entry x:Name="txtKilometers" Keyboard="Numeric" Grid.Row="13" Grid.Column="1"
+                   TextChanged="txtKilometers_TextChanged"/>
+                
+            <StackLayout Orientation="Horizontal" Grid.Row="15" Grid.Column="0" Grid.ColumnSpan="2">
+
+                <Button Text="Clear" HorizontalOptions="FillAndExpand" Clicked="Clear_Clicked" />
+                <Button Text="Convert" HorizontalOptions="FillAndExpand" Clicked="Convert_Clicked"/>
+
+            </StackLayout>
+
+        </Grid></ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>
+

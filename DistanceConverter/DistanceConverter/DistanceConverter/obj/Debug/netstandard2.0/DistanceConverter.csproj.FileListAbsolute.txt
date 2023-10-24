@@ -1,0 +1,16 @@
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/bin/Debug/netstandard2.0/DistanceConverter.deps.json
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/bin/Debug/netstandard2.0/DistanceConverter.dll
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/bin/Debug/netstandard2.0/ref/DistanceConverter.dll
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/bin/Debug/netstandard2.0/DistanceConverter.pdb
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/DistanceConverter.csproj.AssemblyReference.cache
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/DistanceConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/Views/DistancePage.xaml.g.cs
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/DistanceConverter.AssemblyInfoInputs.cache
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/DistanceConverter.AssemblyInfo.cs
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/DistanceConverter.csproj.CoreCompileInputs.cache
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/DistanceConverter.dll
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/refint/DistanceConverter.dll
+/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter/obj/Debug/netstandard2.0/DistanceConverter.pdb
