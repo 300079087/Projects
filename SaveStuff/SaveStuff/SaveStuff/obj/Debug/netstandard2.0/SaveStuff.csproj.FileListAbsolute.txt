@@ -1,0 +1,15 @@
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/bin/Debug/netstandard2.0/SaveStuff.deps.json
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/bin/Debug/netstandard2.0/SaveStuff.dll
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/bin/Debug/netstandard2.0/ref/SaveStuff.dll
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/bin/Debug/netstandard2.0/SaveStuff.pdb
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/SaveStuff.csproj.AssemblyReference.cache
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/SaveStuff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/SaveStuff.AssemblyInfoInputs.cache
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/SaveStuff.AssemblyInfo.cs
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/SaveStuff.csproj.CoreCompileInputs.cache
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/SaveStuff.dll
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/refint/SaveStuff.dll
+/Users/student/Projects/SaveStuff/SaveStuff/SaveStuff/obj/Debug/netstandard2.0/SaveStuff.pdb

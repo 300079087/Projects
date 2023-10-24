@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F2752EF2-C085-4522-ADE2-6A1A95D5FC54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaveStuff/SaveStuff/MainPage.xaml">
+    <Files>
+      <File FileName="SaveStuff/SaveStuff/MainPage.xaml.cs" Line="8" Column="1" />
+      <File FileName="SaveStuff/SaveStuff/MainPage.xaml" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SaveStuff" expanded="True">
+            <Node name="SaveStuff">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SaveStuff.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SaveStuff.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_pie_9_0_-_api_28" />
+</Properties>
